@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: Update badges
-        uses: pemtajo/badge-readme@v3.2
+        uses: pemtajo/badge-readme@3.2
         with:
           CREDLY_USER: han-li.e090ae07
           NUMBER_LAST_BADGES: 0
