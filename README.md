@@ -1,3 +1,13 @@
+# Hi 🙋‍♂️, I'm Han! 👨‍💻
+
+## From frontend pixels to AI models, I enjoy the whole spectrum 🌐
+
+## Connect 🤝
+
+<a href="https://www.linkedin.com/in/han-li-1519b035" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="32" alt="LinkedIn"  title="LinkedIn" /></a>
+<a href="https://stackoverflow.com/users/1486742/leon-han-li" target="_blank"><img src="https://raw.githubusercontent.com/StackExchange/Stacks-Icons/v4.0.0/src/Icon/LogoGlyph.svg" height="32" alt="StackOverflow" title="StackOverflow" /></a>
+<a href="https://vcfvct.wordpress.com/" target="_blank"><img src="https://icon-library.com/images/wordpress-icon-png/wordpress-icon-png-29.jpg" height="32" alt="Blog" title="Blog" /></a>
+
 ## Certifications
 
 <!--START_SECTION:badges-->
