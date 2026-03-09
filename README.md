@@ -22,8 +22,8 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/vcfvct/vcfvct">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vcfvct&theme=github_dark" alt="Top languages by repository" />
+  <img align="center" src="https://raw.githubusercontent.com/vcfvct/vcfvct/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repository" />
 </a>
 <a href="https://github.com/vcfvct/vcfvct">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vcfvct&theme=github_dark" alt="vcfvct's GitHub stats" />
+  <img align="center" src="https://raw.githubusercontent.com/vcfvct/vcfvct/master/profile-summary-card-output/github_dark/3-stats.svg" alt="vcfvct's GitHub stats" />
 </a>
